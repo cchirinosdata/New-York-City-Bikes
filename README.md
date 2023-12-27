@@ -88,4 +88,5 @@ Dashboard en Google Data Studio
 Además de las consultas en BigQuery, se ha creado un dashboard interactivo en Google Data Studio para visualizar los resultados. El dashboard ofrece una representación visual de los análisis y puede ser explorado para obtener información más detallada.
 
 Para acceder al dashboard en Google Data Studio, sigue el enlace proporcionado y explora las visualizaciones interactivas.
+<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/f63e42f3-4d7b-437c-9a4d-a912ebe8f9e1/page/9MCmD" frameborder="0" style="border:0" allowfullscreen></iframe>
 
